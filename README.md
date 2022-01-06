@@ -6,6 +6,9 @@ Discord UI clone
 
 In the project directory, you can run:
 
+### `yarn`
+Run to install dependencies
+
 ### `yarn start`
 
 Runs the app in the development mode.\
